@@ -1,0 +1,158 @@
+.header{
+    text-align: center;
+    z-index: 1;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    padding-right: 20px;
+}
+.list
+{
+    display: inline-block;
+}
+.list-inside{
+    display: inline;
+    padding: 10px;
+    font-size: 25px;
+}
+.buttons{
+    display: inline-block;
+    list-style: none;
+}
+#logo
+{
+    margin-right: 500px;
+    height: 50px;
+    float: left;
+    display: inline-block;
+}
+.buttons>a{
+    margin-left: 100px;
+}
+
+.mynav{
+    float: right;
+    position: fixed;
+    top: 50px;
+    z-index: 1;
+}
+
+.slide
+{
+    background-color: blue;
+    color: white;
+}
+
+.insideinfo
+{
+    display: inline-block;
+}
+
+.para
+{
+    background-color: rgb(245, 245, 245);
+    margin: auto;
+    padding: 50px;
+}
+.para>h1{
+    text-align: center;
+    color: green;
+    padding-bottom: 20px;
+}
+
+.para>p{
+    padding: 50px;  
+}
+
+.bor
+{
+    border: 1px solid white;
+    padding: 50px;
+}
+
+#up
+{
+    margin-top: 1em;
+    border-bottom: 1px solid gray;
+    width: 25%
+}
+
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#upcoming{
+    color: green;
+    padding-bottom: 20px;
+    border-bottom: 2px solid gray;
+    margin-top: 2em;
+}
+#mission
+{
+    color:blue;
+    margin-left: 15px;
+    padding-bottom: 20px;
+    margin-top: 2em;
+}
+
+#headingofwhat{
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+    box-shadow: 0px 2px;
+    color: blue;
+
+}
+
+#imageheading{
+    color:blue;
+    padding-bottom: 30px;
+    border-bottom: 2px solid gray;
+    text-align: center;
+    box-shadow: 0px 2px;
+}
+
+.img-gallery{
+    margin-bottom: 50px;
+}
+
+footer
+{
+    background-color:#25272E;
+    color: #666666;
+}
+
+.footin li{
+    list-style-type: none;
+    overflow: hidden;
+    display: inline;
+    margin: 0px;
+    padding: 2px;
+}
+
+.footin ul{
+    margin:-100px;
+}
+
+.row-footer{
+    padding-top:50px;
+    padding-bottom: 20px;
+}
+
+.footer-bottom{
+    padding-top: 5px;
+    padding-bottom: 2px;
+    text-align: left;
+    color: white;
+    background-color: #316DD9;
+    padding-left: 50px;
+}
+
+
+
+
